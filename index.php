@@ -12,6 +12,7 @@
     <?php
     require_once("sample/header.php")
         ?>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam, adipisci, tempora fuga magnam perspiciatis quaerat, corporis ipsam repellat sunt natus voluptatem? Necessitatibus id, velit doloremque quis maiores voluptates porro illo!</p>
 
 
 
